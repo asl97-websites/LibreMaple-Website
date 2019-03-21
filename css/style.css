@@ -59,16 +59,16 @@ p {
     width: 65px;
     height: 48px;
 
-    background-image: url("/img/logo.png");
+    background-image: url("../img/logo.png");
     background-repeat: no-repeat;
 }
 
 #logo:hover {
-    background-image: url("/img/logo2.png");
+    background-image: url("../img/logo2.png");
 }
 
 #banner-container {
-    background-image: url("/img/ellinia.png");
+    background-image: url("../img/ellinia.png");
     background-size: cover;
     background-position: 50% 0;
 }
